@@ -11,3 +11,4 @@
 | 18-09-2026 | Longest Common Prefix | Arrays & Strings | Easy | Accepted | — |
 | 18-09-2026 | Binary Search | Basic Algorithms | Easy | Accepted | — |
 | 21-09-2026 | Move Zeroes | Basic Algorithms | Easy | Accepted | — |
+| 21-09-2026 | Valid Parentheses | Stack | Easy | Accepted | — |
